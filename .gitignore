@@ -4,3 +4,6 @@ dist/
 build/
 uploads/
 *.log
+.env.local
+.env.*
+!.env.example
