@@ -347,7 +347,7 @@ const mockMessages = [
     _id: '65f6f0000000000000000002',
     messageId: 'MSG-002',
     projectId: '65f2b0000000000000000001',
-    senderId: '65f1a000000000000000002',
+    senderId: '65f1a0000000000000000002',
     senderName: 'Elena Rostova (Designer)',
     senderRole: 'designer',
     message: 'Hi Alex! Yes, absolutely. I have added a dedicated 12V DC conduit channel along joist #7 on Floor 2 and updated the model version to v1.1. You can inspect it directly in the 3D Twin Viewer!',
